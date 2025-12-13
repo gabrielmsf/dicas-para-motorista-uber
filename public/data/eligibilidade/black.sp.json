@@ -1,0 +1,119 @@
+{
+  "category": "black",
+  "location": "sao-paulo-sp",
+  "last_updated": "2024-12-13",
+  "rules_summary": [
+    "Ano de fabricação: 2018 ou mais novo (para 2025 em SP).",
+    "Cores externas: Preto, Chumbo, Prata, Cinza, Azul Marinho, Marrom ou Branco.",
+    "Bancos de couro (ou material similar) e ar-condicionado.",
+    "4 portas e espaço para 5 pessoas (min. 4 passageiros).",
+    "Motorista: média 4.85+ e mínimo 100 viagens na plataforma (exceto Eats/Moto).",
+    "Não permitidos: veículos adesivados, sinistrados ou com modificações na suspensão."
+  ],
+  "sources": [
+    {
+      "label": "Uber - Requisitos Uber Black",
+      "url": "https://www.uber.com/br/pt-br/drive/vehicle-requirements/uber-black/"
+    },
+    {
+      "label": "Lista de veículos aceitos (2024/2025)",
+      "url": "https://www.uber.com/global/pt-br/eligible-vehicles/"
+    }
+  ],
+  "notes": [
+    "Alguns modelos como Ford Focus, Ford Edge e Audi RS7 deixaram de ser aceitos recentemente.",
+    "A lista de modelos elegíveis é restritiva. Verifique se seu modelo específico consta na lista oficial antes de comprar/alugar."
+  ],
+  "vehicles": [
+    {
+      "make": "Audi",
+      "model": "A3 Sedan, A4, A5, Q3, Q5",
+      "years": "2018+"
+    },
+    {
+      "make": "BMW",
+      "model": "320i, X1, X3",
+      "years": "2018+"
+    },
+    {
+      "make": "BYD",
+      "model": "Dolphin, Yuan Plus, Song Plus, King",
+      "years": "2018+"
+    },
+    {
+      "make": "Caoa Chery",
+      "model": "Arrizo 6, Tiggo 5x, Tiggo 7, Tiggo 8",
+      "years": "2018+"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Cruze (Sedan/Hatch), Tracker, Equinox",
+      "years": "2018+"
+    },
+    {
+      "make": "Citroën",
+      "model": "C4 Cactus",
+      "years": "2018+"
+    },
+    {
+      "make": "Fiat",
+      "model": "Fastback, Toro",
+      "years": "2018+"
+    },
+    {
+      "make": "Ford",
+      "model": "Territory, Bronco",
+      "years": "2018+"
+    },
+    {
+      "make": "Honda",
+      "model": "Civic, HR-V, CR-V, Accord, ZR-V",
+      "years": "2018+"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Creta, Elantra, Tucson, Santa Fe",
+      "years": "2018+"
+    },
+    {
+      "make": "Jeep",
+      "model": "Renegade, Compass, Commander",
+      "years": "2018+"
+    },
+    {
+      "make": "Kia",
+      "model": "Cerato, Sportage, Niro",
+      "years": "2018+"
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Outlander, Eclipse Cross",
+      "years": "2018+"
+    },
+    {
+      "make": "Nissan",
+      "model": "Kicks, Sentra, Versa (Novo)",
+      "years": "2018+"
+    },
+    {
+      "make": "Peugeot",
+      "model": "2008 (Novo), 3008",
+      "years": "2018+"
+    },
+    {
+      "make": "Renault",
+      "model": "Captur, Duster (2021+), Megane E-Tech",
+      "years": "2018+"
+    },
+    {
+      "make": "Toyota",
+      "model": "Corolla, Corolla Cross, Prius, RAV4, Camry",
+      "years": "2018+"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Jetta, Nivus, T-Cross, Taos, Tiguan, Virtus",
+      "years": "2018+"
+    }
+  ]
+}

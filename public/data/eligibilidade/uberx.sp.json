@@ -1,0 +1,28 @@
+{
+  "category": "uberx",
+  "location": "sao-paulo-sp",
+  "last_updated": "2024-12-13",
+  "rules_summary": [
+    "Ano de fabricação: máximo 10 anos (2015+ para 2025).",
+    "Carro com 4 portas e 5 lugares.",
+    "Ar-condicionado funcionando.",
+    "Bom estado de conservação (sem amassados graves, adesivos ou sinalização comercial).",
+    "Documentação em dia (CRLV).",
+    "Não permitidos: caminhonetes, vans, picapes, placas vermelhas, veículos sinistrados/recuperados."
+  ],
+  "sources": [
+    {
+      "label": "Uber - Requisitos para veículos (SP)",
+      "url": "https://www.uber.com/br/pt-br/drive/requirements/vehicle-requirements/"
+    },
+    {
+      "label": "Uber - Elegibilidade de veículos",
+      "url": "https://www.uber.com/br/pt-br/drive/sao-paulo/vehicle-requirements/"
+    }
+  ],
+  "notes": [
+    "As regras de ano de fabricação mudam na virada do ano.",
+    "A Uber pode alterar critérios sem aviso prévio. Confirme sempre no app ao cadastrar o veículo."
+  ],
+  "vehicles": []
+}
