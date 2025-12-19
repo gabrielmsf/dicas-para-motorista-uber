@@ -1,4 +1,3 @@
-plan.md — dicasparamotoristauber.com.br (site estático + foco UberX/Black)
 0) Objetivo
 
 Reativar o domínio dicasparamotoristauber.com.br como um site 100% estático, com tudo que vai ao ar dentro de public/, focando nas páginas que historicamente mais traziam tráfego:
